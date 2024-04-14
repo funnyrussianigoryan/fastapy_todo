@@ -12,6 +12,6 @@ async def get_lists():
 async def create_lists():
     return
 
-@router.delete('/lists/{list_id')
+@router.delete('/lists/{list_id}')
 async def delete_list():
     return
