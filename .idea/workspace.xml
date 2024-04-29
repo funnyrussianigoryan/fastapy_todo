@@ -5,9 +5,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="63e854dc-4588-4fb9-a4e8-43d7d379f2c9" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/fastapy_todo.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/fastapy_todo.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/api/todo_item.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/api/todo_item.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/api/todo_list.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/api/todo_list.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/app.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/app.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
